@@ -1,0 +1,51 @@
+
+.box{
+    color: ivory;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px;
+   flex-direction:row;
+    
+}
+.box a:hover{
+    font-size: 24px;
+}
+.box1{ background-color: rgba(140, 218, 240, 0.762);}
+.box2{ background-color: lightcoral;}
+.box3{ background-color: hsl(61, 71%, 53%);
+       
+}
+.index{
+    background-color:#2ffff1;
+}
+h1{
+    color:#df115d;
+    font-size: 28px;
+}
+h2{color:#03623c;
+font-size: 28px;
+}
+h3{color:#ec1616;
+    font-size: 28px;
+    }
+    h5{color:#163aec;
+        font-size: 28px;
+        }
+ .center{
+     text-align: center;
+ }  
+ #aboutus{
+    background-color: rgb(152, 187, 141);
+}
+#contactus{
+    background-color: rgb(236, 170, 139);
+}
+#index{
+    background-color: rgb(191, 167, 186);
+}
+#products{
+    background-color: rgb(118, 165, 165);
+}
+#flexbox{
+         display: flex;
+}
